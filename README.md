@@ -1,6 +1,6 @@
 # Cloud + DevOps Architecture Design
 
-This repository contains a PowerPoint presentation explaining a modern **Cloud + DevOps architecture** designed for scalable, secure, and automated application deployment.
+This repository contains a PowerPoint presentation and PDF(version), explaining a modern **Cloud + DevOps architecture** designed for scalable, secure, and automated application deployment.
 
 ---
 
